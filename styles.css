@@ -79,6 +79,7 @@ body {
   text-align: center;
   color: white;
   margin: 10px 0;
+  margin: 50px;
 }
 
 .green {
@@ -92,6 +93,7 @@ body {
 }
 .inactive {
   border: 2px solid white !important;
+  
 }
 .hidden {
   display: none;
