@@ -94,9 +94,11 @@ body {
 .inactive {
   border: 2px solid white !important;
   
+  
 }
 .hidden {
   display: none;
+  
 }
 .title {
   text-align: center;
@@ -191,4 +193,9 @@ button {
   .card {
     flex-direction: column;
   }
+}
+
+.middle{
+  margin-top: 250px;
+  margin-left: 500px;
 }
